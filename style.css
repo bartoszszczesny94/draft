@@ -60,6 +60,7 @@ a:active
 {
 	width: 780px;
 	padding-left: 100px;
+
 }
 
 ol > li >ul > li:before
@@ -79,4 +80,13 @@ ol > li >ul > li:before
     right: 50px;
     bottom: 50px;
     display: none;
+}
+
+.icon
+{
+    width: 780px;
+    height: 195px;
+    text-align: left;
+    clear:both;
+    border-top: 1px solid #ccc;
 }
