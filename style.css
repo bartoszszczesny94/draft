@@ -50,7 +50,7 @@ a:active
     margin-left: auto;
     margin-right: auto;
     background-color: white;
-    width: 878px;
+    width: 900px;
     padding: 10px;
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
@@ -58,7 +58,7 @@ a:active
 
 #spis
 {
-	width: 780px;
+	width: 802px;
 	padding-left: 100px;
 
 }
@@ -84,9 +84,11 @@ ol > li >ul > li:before
 
 .icon
 {
-    width: 780px;
-    height: 195px;
+    width: 802px;
+    height: auto;
     text-align: left;
     clear:both;
-    border-top: 1px solid #ccc;
+    border-top: 4px solid #666;
+    padding: 20px;
+    padding-left: 80px;
 }
