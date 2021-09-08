@@ -1,6 +1,6 @@
 body
 {
-    background-image: url("tlo.png");
+    background-color: #0a1992;;
     margin: 0px;
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
@@ -34,15 +34,15 @@ a:active
 {
     width: 100%;
     height: 50px;
-    background-color: #485b3b;
+    background-color: #000537;;
     font-size: 36px;
     color: white;
     text-align: center;
     text-transform: uppercase;
     padding: 5px 0px 5px 0px;
     letter-spacing: 3px;
-    border-bottom: 2px solid #33402a;
-    text-shadow: 2px 2px 0 #33402a,-2px 2px 0 #33402a,-2px -2px 0 #33402a,2px -2px 0 #33402a;
+    border-bottom: 2px solid #007bff;
+    text-shadow: 1px 1px 0 #007bff,-1px 1px 0 #007bff,-1px -1px 0 #007bff,1px -1px 0 #007bff;
 }
 
 #container
@@ -75,7 +75,7 @@ ol > li >ul > li:before
     width: 64px;
     height: 64px;
     text-decoration: none;
-    background: url("img/up.png") no-repeat 0px 0px;
+    background-color:#0a1992;;
     position: fixed;
     right: 50px;
     bottom: 50px;
