@@ -14,19 +14,19 @@ a:link
 
 a:visited
 {
-	color: #ccc;
+	color: 	#FFEFD5;
 	text-decoration: none;
 }
 
 a:hover
 {
-	color: #green;
+	color: #FFE4B5;
 	text-decoration: underline;
 }
 
 a:active
 {
-	color: #ccc;
+	color: #FFDAB9;
 	text-decoration: none;
 }
 
@@ -89,7 +89,7 @@ ol > li >ul > li:before
     height: auto;
     text-align: left;
     clear:both;
-    border-top: 4px solid #666;
+    border-top: 0.5px solid #1E90FF;
     padding: 20px;
     padding-left: 80px;
 }
